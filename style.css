@@ -1,0 +1,21 @@
+body{
+
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+color: red;
+font-size: large;
+
+
+}
+
+h1{
+    background-color: aqua;
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+    
+}
+
+li{
+    list-style: square;
+}
